@@ -9,3 +9,5 @@
 
 #### 🚀 Featured Enterprise Project
 * **[EnterpriseSupplyChainDW](https://github.com/rohitdangwal599/EnterpriseSupplyChainDW):** An end-to-end supply chain analytics platform featuring 7+ Gold SQL views, automated Python pipelines, and a 4-page Power BI executive command center focusing on inventory valuation, loss prevention, and outlet benchmarking.
+
+* **[Healthcare-SupplyChain-Analytics](https://github.com/rohitdangwal599/Healthcare-SupplyChain-Analytics):** Power BI & Power Query analytics engine monitoring €90M+ clinical stock holding risk, procurement trends, and €537K in audit discrepancies across 38 centers.

@@ -12,6 +12,6 @@
 
 * **[Healthcare-SupplyChain-Analytics](https://github.com/rohitdangwal599/Healthcare-SupplyChain-Analytics):** Power BI & Power Query analytics engine monitoring €90M+ clinical stock holding risk, procurement trends, and €537K in audit discrepancies across 38 centers.
 
-* **[Retail Sales Analytics & Insights]**(https://github.com/rohitdangwal599/Retail-Sales-Analytics)
+* **[Retail Sales Analytics & Insights]** (https://github.com/rohitdangwal599/Retail-Sales-Analytics):**
 * Tech Stack: Power BI, Customer RFM Segmentation, Power Query (M), DAX
 * Summary: Commercial analytics dashboard analyzing multi-category sales, RFM-style customer value banding (62% revenue driven by High-Value tier), and demographic preferences.
